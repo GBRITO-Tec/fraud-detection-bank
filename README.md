@@ -92,7 +92,7 @@ O sistema gera gráficos como:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/fraud-detection-bank.git
+git clone https://github.com/GBRITO-Tec/fraud-detection-bank.git
 ```
 
 Entre na pasta:
